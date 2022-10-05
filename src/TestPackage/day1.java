@@ -8,7 +8,8 @@ public class day1 {
 	public void Demo() 
 	{
 		System.out.println("Hello");
-		
+		System.out.println("Hi");
+		System.out.println("Namaskar");
 	}
 	
 	@Test
